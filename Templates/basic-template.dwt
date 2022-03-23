@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Attack On Jacob</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="https://use.typekit.net/oir7vcb.css">
+	<style type="text/css">
+	body,td,th {
+    font-family: Ode, "Ode Black", "Ode Bold", "Ode Medium", "Ode Semilight";
+}
+
+    a:link {
+    color: #0E562F;
+}
+a:visited {
+    color: #093C21;
+}
+a:hover {
+    color: #0E562F;
+}
+a:active {
+    color: #FFFFFF;
+}
+    </style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <header></header>	<nav><ul>
+		<li><a href="about.html">About</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="gallery.html">Gallery</a></li>
+		<li><a href="contact.html">Contact</a></li>
+	</ul></nav>
+  <aside>
+    <h3>I'm a Student, Aviation Enthusiast, Future Marine, and a proud supporter of Blackened Cajun Chicken.</h3>
+    <h3>This is a blog about my anime recommendations and my thoughts on episodes.&nbsp; &nbsp; &nbsp;&nbsp;</h3>
+    <h3>by Jacob Pearson&nbsp;</h3>
+  </aside>
+  <main><!-- TemplateBeginEditable name="main-content" -->main-content<!-- TemplateEndEditable -->
+    
+  </main> 
+  <footer></footer>
+</div>
+</body>
+</html>
